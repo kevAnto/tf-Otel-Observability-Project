@@ -1,4 +1,4 @@
-name: Terraform K3s Provisioning
+name: Terraform Infra Provisioning
 
 on:
   push:
